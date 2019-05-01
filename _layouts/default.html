@@ -8,9 +8,17 @@
 <body>
     {% include gtm_body.html %} {% include nav.html %}
     <main class="page-content">
-        {{ content }}
+        <section class="fdb-block">
+            <div class="container">
+                <div class="row align-items-center">
+                    {{ page.title }}
+                </div>
+                <div class="row align-items-center">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
     </main>
     {% include footer.html %}
 </body>
-
 </html>
