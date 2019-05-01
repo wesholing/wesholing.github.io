@@ -11,16 +11,16 @@
                 
                 <div class="collapse navbar-collapse navbar-collapse-4 justify-content-center col-md-6">
                     <ul class="navbar-nav justify-content-center">
-                        <li class="nav-item{% if page.slug == page.path %} active{% endif %}">
+                        <li class="nav-item{% if page["slug"] == "index" %} active{% endif %}">
                             <a class="nav-link" href="/">Home</a>
                         </li>
-                        <li class="nav-item{% if page.slug == page.path %} active{% endif %}">
+                        <li class="nav-item{% if page["slug"] == "resume" %} active{% endif %}">
                             <a class="nav-link" href="resume">Resume</a>
                         </li>
-                        <li class="nav-item{% if page.slug == page.path %} active{% endif %}">
+                        <li class="nav-item{% if page["slug"] == "samples" %} active{% endif %}">
                             <a class="nav-link" href="samples">Samples</a>
                         </li>
-                        <li class="nav-item{% if page.slug == page.path %} active{% endif %}">
+                        <li class="nav-item{% if page["slug"] == "about" %} active{% endif %}">
                             <a class="nav-link" href="about">About</a>
                         </li>
                     </ul>
@@ -35,4 +35,4 @@
             </nav>
         </div>
     </nav>
-{{ page.slug }}
+page["slug"]
