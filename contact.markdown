@@ -7,3 +7,5 @@ slug: contact
 ---
 
 Got a project idea? A job opportunity? Just want to say hi?
+
+{% page.path %}
