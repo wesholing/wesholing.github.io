@@ -5,4 +5,4 @@ permalink: "/contact.html"
 layout: contact
 ---
 
-    Test content
+Got a project idea? A job opportunity? Just want to say hi?
