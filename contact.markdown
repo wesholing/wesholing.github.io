@@ -2,48 +2,7 @@
 title: Contact
 date: 2019-04-30 17:19:00 -07:00
 permalink: "/contact.html"
-layout: default
+layout: contact
 ---
 
-    <section class="fdb-block">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-8 col-lg-8 col-xl-6">
-                    <div class="row">
-                        <div class="col text-center">
-                            <h1>Contact</h1>
-                            <p class="lead">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia. </p>
-                        </div>
-                    </div>
-                    <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeG7R6HM4wvsCIBwyTi0TJg70EHKCYTU3585Pnkra7BqjgeZQ/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-                        <div class="row align-items-center">
-                            <div class="col mt-4">
-                                <input type="text" class="form-control" placeholder="Name" name="entry.54172832" id="entry.54172832">
-                            </div>
-                        </div>
-                        <div class="row align-items-center mt-4">
-                            <div class="col">
-                                <input type="email" class="form-control" placeholder="Email" name="entry.232164969" id="entry.232164969">
-                            </div>
-                        </div>
-                        <div class="row align-items-center mt-4">
-                            <div class="col">
-                                <input type="text" class="form-control" placeholder="Subject" name="entry.885866749" id="entry.885866749">
-                            </div>
-                        </div>
-                        <div class="row align-items-center mt-4">
-                            <div class="col">
-                                <textarea class="form-control" placeholder="Message" name="entry.2050359507" id="entry.2050359507"></textarea>
-                            </div>
-                        </div>
-                        <div class="row align-items-center mt-4">
-                            <div class="col">
-                                <input type="submit" value="Send" class="btn btn-primary mt-4">
-                            </div>
-                        </div>
-                    </form>
-                    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
+    Test content
