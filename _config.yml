@@ -15,3 +15,4 @@ url: https://www.wesholing.org
 slug: 
 gems:
 - jekyll-sitemap
+- jekyll-seo-tag
