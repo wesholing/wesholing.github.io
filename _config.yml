@@ -1,8 +1,5 @@
 ---
 title: Wes Holing
-email: wes.holing@gmail.com
-description: Professional front-end web developer, UX designer, and SEO specialist with 10 years experience in nonprofit and activist spaces
-url: https://www.wesholing.org
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -11,3 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+email: wes.holing@gmail.com
+description: Professional front-end web developer, UX designer, and SEO specialist
+  with 10 years experience in nonprofit and activist spaces
+url: https://www.wesholing.org
