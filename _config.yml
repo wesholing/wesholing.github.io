@@ -1,0 +1,14 @@
+---
+title: Wes Holing
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: wes.holing@gmail.com
+description: Professional front-end web developer, UX designer, and SEO specialist
+  with 10 years experience in nonprofit and activist spaces
+url: https://www.wesholing.org
