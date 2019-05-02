@@ -1,7 +1,7 @@
 ---
 title: About Wes Holing
 permalink: "/about/"
-layout: page
+layout: basic
 ---
 
 Lorem ipsum dolor sit amet
