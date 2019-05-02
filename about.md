@@ -1,6 +1,6 @@
 ---
 title: About Wes Holing
-permalink: "/about/"
+permalink: "/about"
 layout: basic
 ---
 
