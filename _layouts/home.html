@@ -1,4 +1,81 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+{% include gtm_head.html %}
+{% include meta.html %}
+{% include title.html %}
+{% include link.html %}
+{% include script.html %}
+</head>
+
+<body>
+    {% include gtm_body.html %} {% include nav.html %}
+    <header class="fdb-block">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-md-4 mb-4 mb-md-0">
+                    <div class="portrait">
+                        <img alt="Wes Holing" class="img-fluid" src="images/wes-holing.jpg">
+                    </div>
+                </div>
+                <div class="col-12 col-md-8 ml-md-auto text-left">
+                    <h1>Wes Holing</h1>
+                    <div class="lead">{{ content}}</div>
+                    <p><a class="btn btn-primary mt-4" href="contact">Contact</a></p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <section class="fdb-block bg-dark">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-12">
+                        <p class="h3">Placeholder separator</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="fdb-block">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 text-center">
+                        <h2>Strengths</h2>
+                    </div>
+                </div>
+
+                <div class="row text-center mt-5">
+                    <div class="col-12 col-sm-4">
+                        <img alt="Front-end web development" class="fdb-icon" src="images/icon-web-dev.svg">
+                        <h3><strong>Front-End Web Development</strong></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget felis eu enim pretium porttitor eget quis tortor. Ut tempor tempor libero id efficitur. </p>
+                    </div>
+
+                    <div class="col-12 col-sm-4 pt-4 pt-sm-0">
+                        <img alt="UX design" class="fdb-icon" src="images/icon-ux.svg">
+                        <h3><strong>UX Design</strong></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget felis eu enim pretium porttitor eget quis tortor. Ut tempor tempor libero id efficitur. </p>
+                    </div>
+
+                    <div class="col-12 col-sm-4 pt-4 pt-sm-0">
+                        <img alt="SEO" class="fdb-icon" src="images/icon-seo.svg">
+                        <h3><strong>SEO</strong></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget felis eu enim pretium porttitor eget quis tortor. Ut tempor tempor libero id efficitur. </p>
+                    </div>
+                </div>
+
+                <div class="row mt-5 justify-content-center">
+                    <div class="col-8">
+                        <img alt="image" class="img-fluid" src="images/product-tour.svg">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    {% include footer.html %}
+</body>
+
+</html>
