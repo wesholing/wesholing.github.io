@@ -2,6 +2,7 @@
 title: Wes Holing
 date: 2019-05-03 17:43:00 -07:00
 permalink: "/index"
+slug: index
 layout: home
 ---
 
