@@ -1,37 +1,31 @@
-    <nav class="bg-dark">
-        <div class="container">
-            <nav class="navbar navbar-expand-md no-gutters">
-                <div class="col-3 text-left">
-                    <a href="/" class="nav-link"><img src="images/logo-512x512.png" alt="Wes Holing" height="24" width="24"></a>
-                </div>
-
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse-4" aria-controls="navbarNav15" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                
-                <div class="collapse navbar-collapse navbar-collapse-4 justify-content-center col-md-6">
-                    <ul class="navbar-nav justify-content-center">
-                        <li class="nav-item{% if page["slug"] contains "index" %} active{% endif %}">
-                            <a class="nav-link" href="/">Home</a>
-                        </li>
-                        <li class="nav-item{% if page["slug"] contains "resume" %} active{% endif %}">
-                            <a class="nav-link" href="resume">Resume</a>
-                        </li>
-                        <li class="nav-item{% if page["slug"] contains "samples" %} active{% endif %}">
-                            <a class="nav-link" href="samples">Samples</a>
-                        </li>
-                        <li class="nav-item{% if page["slug"] contains "about" %} active{% endif %}">
-                            <a class="nav-link" href="about">About</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="collapse navbar-collapse navbar-collapse-4">
-                    <ul class="navbar-nav ml-auto justify-content-end">
-                        <li class="nav-item">
-                            <a class="btn btn-primary ml-md-3 justify-content-end" href="contact">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <div class="col-3 text-left"><a class="navbar-brand" href="#"><img src="images/logo-512x512.png" alt="Wes Holing" height="24" width="24"></a></div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        <div class="collapse navbar-collapse navbar-collapse-4 justify-content-center col-md-6" id="navbarText">
+          <ul class="navbar-nav justify-content-center">
+            <li class="nav-item{% if page[" slug "] contains "index " %} active{% endif %}">
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item{% if page[" slug "] contains "resume " %} active{% endif %}">
+              <a class="nav-link" href="/resume">Resume</a>
+            </li>
+            <li class="nav-item{% if page[" slug "] contains "samples " %} active{% endif %}">
+              <a class="nav-link" href="/samples">Samples</a>
+            </li>
+            <li class="nav-item{% if page[" slug "] contains "about " %} active{% endif %}">
+              <a class="nav-link" href="/about">About</a>
+            </li>
+          </ul>
         </div>
+        <div class="collapse navbar-collapse navbar-collapse-4">
+          <ul class="navbar-nav ml-auto justify-content-end">
+            <li class="nav-item">
+              <a class="btn btn-primary ml-md-3 justify-content-end" href="/contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </nav>
