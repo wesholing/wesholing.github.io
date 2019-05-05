@@ -46,7 +46,7 @@ Master's Degree: Journalism
 Bachelor of Arts: Political Science
 
 ## Technical Skills
-Adobe Acrobat, After Effects, Audition, Dreamweaver, Illustrator, InDesign, Photoshop, and Premiere; multiple CMSes; HubSpot; HTML5, CSS3, JavaScript, and jQuery; Google Analytics, Tag Manager, Optimize, Search Console; Marketo; Microsoft Office; Sketch; SharePoint; SEO best practices; social media; UX best practices
+Adobe Acrobat, After Effects, Audition, Dreamweaver, Illustrator, InDesign, Photoshop, Premiere, and XD; multiple CMSes; HubSpot; HTML5, CSS3, JavaScript, and jQuery; Google Analytics, Tag Manager, Optimize, Search Console; Marketo; Microsoft Office; Sketch; SharePoint; SEO best practices; social media; UX best practices
 
 References available upon request
 {: style="text-align: center"}
