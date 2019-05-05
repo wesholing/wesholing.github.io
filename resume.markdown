@@ -2,6 +2,7 @@
 title: Resume
 date: 2019-05-04 19:46:00 -07:00
 permalink: "/resume"
+slug: resume
 layout: basic
 ---
 
