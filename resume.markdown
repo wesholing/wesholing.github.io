@@ -2,6 +2,7 @@
 title: Resume
 date: 2019-05-04 19:46:00 -07:00
 permalink: "/resume"
+slug: resume
 layout: basic
 ---
 
@@ -16,6 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat in dia
 ## Professional Experience
 ### TechSoup Global (02/11—present)
 Position Held: Senior Web Content Developer
+
 Responsibilities:
 * Plan, create, and design for sites on the TechSoup Global Network based on user data
 * Research, write, edit, and QA product, marketing, and educational content for email, blogs, and the web with a focus on user-centered design
@@ -24,6 +26,7 @@ Responsibilities:
 
 ### Academy of Art University (06/09—11/10)
 Position Held: Web Project Coordinator
+
 Responsibilities:
 * Work with vendors to ensure content on all web properties is accurate and new features are delivered on time and on budget
 * Create graphic content, write copy, and coordinate layout for marketing materials on the web, in e-mail, and in print
@@ -31,6 +34,7 @@ Responsibilities:
 
 ### Vivre.com (09/08—05/09)
 Position Held: HTML Programmer
+
 Responsibilities:
 * Developed and maintained content
 * Distributed biweekly e-newsletter for national lifestyle publication
@@ -42,7 +46,7 @@ Master's Degree: Journalism
 Bachelor of Arts: Political Science
 
 ## Technical Skills
-Adobe Acrobat, After Effects, Audition, Dreamweaver, Illustrator, InDesign, Photoshop, and Premiere; multiple CMSes; HubSpot; HTML5, CSS3, JavaScript, and jQuery; Google Analytics, Tag Manager, Optimize, Search Console; Marketo; Microsoft Office; Sketch; SharePoint; SEO best practices; social media; UX best practices
+Adobe Acrobat, After Effects, Audition, Dreamweaver, Illustrator, InDesign, Photoshop, Premiere, and XD; multiple CMSes; HubSpot; HTML5, CSS3, JavaScript, and jQuery; Google Analytics, Tag Manager, Optimize, Search Console; Marketo; Microsoft Office; Sketch; SharePoint; SEO best practices; social media; UX best practices
 
 References available upon request
 {: style="text-align: center"}
