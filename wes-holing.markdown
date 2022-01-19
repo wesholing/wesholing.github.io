@@ -2,8 +2,10 @@
 title: Wes Holing
 date: 2019-05-03 17:43:00 -07:00
 permalink: "/index"
+meta-desc: The professional portfolio of Wes Holing, a tech worker engaged in projects
+  for social good.
 slug: index
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget felis eu enim pretium porttitor eget quis tortor. Ut tempor tempor libero id efficitur. Praesent leo risus, varius ac urna et, efficitur elementum metus. Sed quis ligula vitae nulla placerat vestibulum. Proin convallis ex quis ligula malesuada, sit amet maximus augue convallis.
+Hi! I'm a tech worker who's been working within the nonprofit sector and volunteering with political organizations for more than 10 years. I enjoy collaborating on projects with other advocates for social good and organizing to make a real impact on the lives of regular people.
