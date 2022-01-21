@@ -8,4 +8,4 @@ slug: index
 layout: home
 ---
 
-Hi! I'm a tech worker who's been working within the nonprofit sector and volunteering with political organizations for more than 10 years. I enjoy collaborating on projects with other advocates for social good and organizing to make a real impact on the lives of regular people. 
+Hi! I'm a tech worker who's been working within the nonprofit sector and volunteering with political organizations for more than 10 years. I enjoy collaborating on projects with other advocates for social good and organizing to make a real impact on the lives of regular people.
